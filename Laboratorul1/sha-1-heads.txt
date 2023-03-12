@@ -1,0 +1,22 @@
+d9de6e5 Adaugare fisier main.js pentru branch1 			 branch1
+bc669ee Adaugare fisier main.go pentru branch10 			 branch10
+6edf026 Adaugare fisier main.py pentru branch2 			 branch2
+2454907 Adaugare fisier main.asp pentru branch3 			 branch3
+6c39120 Adaugare fisier main.sql pentru branch4 			 branch4
+1360c55 Adaugare fisier main.java pentru branch5 			 branch5
+a3e98e6 Adaugare fisier main.rb pentru branch6 			 branch6
+040c58a Adaugare fisier main.php pentru branch7 			 branch7
+59b1269 Adaugare fisier main.vbs pentru branch8 			 branch8
+1e19e22 Adaugare fisier main.js pentru branch9 			 branch9
+ 			 * master
+d9de6e5 Adaugare fisier main.js pentru branch1 			 branch1
+bc669ee Adaugare fisier main.go pentru branch10 			 branch10
+6edf026 Adaugare fisier main.py pentru branch2 			 branch2
+2454907 Adaugare fisier main.asp pentru branch3 			 branch3
+6c39120 Adaugare fisier main.sql pentru branch4 			 branch4
+1360c55 Adaugare fisier main.java pentru branch5 			 branch5
+a3e98e6 Adaugare fisier main.rb pentru branch6 			 branch6
+040c58a Adaugare fisier main.php pentru branch7 			 branch7
+59b1269 Adaugare fisier main.vbs pentru branch8 			 branch8
+1e19e22 Adaugare fisier main.js pentru branch9 			 branch9
+ 			 * master
